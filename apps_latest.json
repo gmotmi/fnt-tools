@@ -1,23 +1,23 @@
 {
   "FNT_INTEGRATED": {
-    "version": "3.12",
-    "path": "Z:\\1 성적서\\0 자동화\\FNT 통합 자동화 프로그램 (설치형)\\FNT_v3.18_setup.exe",
+    "version": "v3.12",
+    "path": "Z:\\1 성적서\\0 자동화\\FNT 통합 자동화 프로그램 (설치형)\\FNT_Setup_v3.12.exe",
     "product_name": "FNT 통합 자동화 프로그램",
-    "latest_version": "3.12",
-    "download_url": "Z:\\1 성적서\\0 자동화\\FNT 통합 자동화 프로그램 (설치형)\\FNT_v3.18_setup.exe",
+    "latest_version": "v3.12",
+    "download_url": "Z:\\1 성적서\\0 자동화\\FNT 통합 자동화 프로그램 (설치형)\\FNT_Setup_v3.12.exe",
     "last_updated": "2025-11-16",
     "changelog": "- 실행중 중지 기능 추가\n- 업데이트 정보 기능 추가",
     "scan_dir": "Z:/1 성적서/0 자동화/FNT 통합 자동화 프로그램 (설치형)",
     "scan_pattern": "FNT_Setup_*.exe"
   },
   "HSCMT": {
-    "version": "2.05",
-    "path": "",
+    "version": "2.4",
+    "path": "Z:\\1 성적서\\0 자동화\\HSCMT 작업용 자동화\\hscmt_v2.4.exe",
     "product_name": "HSCMT 관리 프로그램",
     "last_updated": "2025-11-16",
     "changelog": "",
-    "latest_version": "2.05",
-    "download_url": "",
+    "latest_version": "2.4",
+    "download_url": "Z:\\1 성적서\\0 자동화\\HSCMT 작업용 자동화\\hscmt_v2.4.exe",
     "scan_dir": "Z:/1 성적서/0 자동화/HSCMT 작업용 자동화",
     "scan_pattern": "*.exe"
   }
