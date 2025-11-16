@@ -1,6 +1,11 @@
 {
   "FNT_INTEGRATED": {
-    "version": "3.18",
-    "path": "Z:\\1 성적서\\0 자동화\\FNT 통합 자동화 프로그램 (설치형)\\FNT_v3.18_setup.exe"
+    "version": "3.19",
+    "path": "Z:\\1 성적서\\0 자동화\\FNT 통합 자동화 프로그램 (설치형)\\FNT_v3.18_setup.exe",
+    "product_name": "FNT 통합 자동화 프로그램",
+    "latest_version": "3.19",
+    "download_url": "Z:\\1 성적서\\0 자동화\\FNT 통합 자동화 프로그램 (설치형)\\FNT_v3.18_setup.exe",
+    "last_updated": "2025-11-16",
+    "changelog": ""
   }
 }
