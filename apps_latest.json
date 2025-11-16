@@ -1,9 +1,9 @@
 {
   "FNT_INTEGRATED": {
-    "version": "3.19",
+    "version": "3.12",
     "path": "Z:\\1 성적서\\0 자동화\\FNT 통합 자동화 프로그램 (설치형)\\FNT_v3.18_setup.exe",
     "product_name": "FNT 통합 자동화 프로그램",
-    "latest_version": "3.19",
+    "latest_version": "3.12",
     "download_url": "Z:\\1 성적서\\0 자동화\\FNT 통합 자동화 프로그램 (설치형)\\FNT_v3.18_setup.exe",
     "last_updated": "2025-11-16",
     "changelog": "- 실행중 중지 기능 추가\n- 업데이트 정보 기능 추가",
