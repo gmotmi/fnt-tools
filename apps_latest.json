@@ -6,7 +6,9 @@
     "latest_version": "3.19",
     "download_url": "Z:\\1 성적서\\0 자동화\\FNT 통합 자동화 프로그램 (설치형)\\FNT_v3.18_setup.exe",
     "last_updated": "2025-11-16",
-    "changelog": "- 실행중 중지 기능 추가\n- 업데이트 정보 기능 추가"
+    "changelog": "- 실행중 중지 기능 추가\n- 업데이트 정보 기능 추가",
+    "scan_dir": "Z:/1 성적서/0 자동화/FNT 통합 자동화 프로그램 (설치형)",
+    "scan_pattern": "FNT_Setup_*.exe"
   },
   "HSCMT": {
     "version": "2.05",
@@ -15,6 +17,8 @@
     "last_updated": "2025-11-16",
     "changelog": "",
     "latest_version": "2.05",
-    "download_url": ""
+    "download_url": "",
+    "scan_dir": "Z:/1 성적서/0 자동화/HSCMT 작업용 자동화",
+    "scan_pattern": "*.exe"
   }
 }
