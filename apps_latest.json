@@ -7,5 +7,14 @@
     "download_url": "Z:\\1 성적서\\0 자동화\\FNT 통합 자동화 프로그램 (설치형)\\FNT_v3.18_setup.exe",
     "last_updated": "2025-11-16",
     "changelog": ""
+  },
+  "HSCMT": {
+    "version": "2.05",
+    "path": "",
+    "product_name": "HSCMT 관리 프로그램",
+    "last_updated": "2025-11-16",
+    "changelog": "",
+    "latest_version": "2.05",
+    "download_url": ""
   }
 }
