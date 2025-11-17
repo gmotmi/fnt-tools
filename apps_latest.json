@@ -1,12 +1,12 @@
 {
   "FNT_INTEGRATED": {
-    "version": "v3.18",
-    "path": "Z:\\1 성적서\\0 자동화\\FNT 통합 자동화 프로그램 (설치형)\\FNT_Setup_v3.18.exe",
+    "version": "v3.1.8",
+    "path": "Z:\\1 성적서\\0 자동화\\FNT 통합 자동화 프로그램 (설치형)\\FNT_Setup_v3.1.8.exe",
     "product_name": "FNT 통합 자동화 프로그램",
-    "latest_version": "v3.18",
-    "download_url": "Z:\\1 성적서\\0 자동화\\FNT 통합 자동화 프로그램 (설치형)\\FNT_Setup_v3.18.exe",
-    "last_updated": "2025-11-16",
-    "changelog": "- 실행중 중지 기능 추가(3.15)\n- 업데이트 정보 기능 추가(3.17)\n- 사소한 오류 수정(3.18)",
+    "latest_version": "v3.1.8",
+    "download_url": "Z:\\1 성적서\\0 자동화\\FNT 통합 자동화 프로그램 (설치형)\\FNT_Setup_v3.1.8.exe",
+    "last_updated": "2025-11-17",
+    "changelog": "- 실행중 중지 기능 추가(3.1.5)\n- 업데이트 정보 기능 추가(3.1.7)\n- 사소한 오류 수정(3.1.8)",
     "scan_dir": "Z:/1 성적서/0 자동화/FNT 통합 자동화 프로그램 (설치형)",
     "scan_pattern": "FNT_Setup_*.exe"
   },
