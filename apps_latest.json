@@ -12,12 +12,12 @@
   },
   "HSCMT": {
     "version": "v2.1.3",
-    "path": "Z:\\1 성적서\\0 자동화\\02 HSCMT 통합 자동화 프로그램 (설치형)\\HSCMT_Setup_v2.1.2.exe",
+    "path": "Z:\\1 성적서\\0 자동화\\02 HSCMT 통합 자동화 프로그램 (설치형)\\HSCMT_Setup_v2.1.3.exe",
     "product_name": "HSCMT 통합 자동화 프로그램",
     "last_updated": "2025-12-05",
-    "changelog": "- 업데이트 정보 기능 추가(2.1.1)\n- 버그 수정(2.1.2)",
+    "changelog": "- 업데이트 정보 기능 추가(2.1.1)\n- 버그 수정(2.1.2)\n- 버그 수정(2.1.3)",
     "latest_version": "v2.1.3",
-    "download_url": "Z:\\1 성적서\\0 자동화\\02 HSCMT 통합 자동화 프로그램 (설치형)\\HSCMT_Setup_v2.1.2.exe",
+    "download_url": "Z:\\1 성적서\\0 자동화\\02 HSCMT 통합 자동화 프로그램 (설치형)\\HSCMT_Setup_v2.1.3.exe",
     "scan_dir": "Z:/1 성적서/0 자동화/02 HSCMT 통합 자동화 프로그램 (설치형)",
     "scan_pattern": "*.exe"
   }
