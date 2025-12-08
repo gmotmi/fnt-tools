@@ -20,5 +20,16 @@
     "download_url": "Z:\\1 성적서\\0 자동화\\02 HSCMT 통합 자동화 프로그램 (설치형)\\HSCMT_Setup_v2.1.5.exe",
     "scan_dir": "Z:/1 성적서/0 자동화/02 HSCMT 통합 자동화 프로그램 (설치형)",
     "scan_pattern": "*.exe"
+  },
+  "CalPattern_Maker": {
+    "version": "v1.2.0",
+    "path": "Z:\\1 성적서\\0 자동화\\Calpattern Maker\\CalPatternMaker_Setup_v1.2.0.exe",
+    "product_name": "CalPattern_Maker",
+    "last_updated": "2025-12-08",
+    "changelog": "",
+    "scan_dir": "Z:/1 성적서/0 자동화/Calpattern Maker",
+    "scan_pattern": "*.exe",
+    "latest_version": "v1.2.0",
+    "download_url": "Z:\\1 성적서\\0 자동화\\Calpattern Maker\\CalPatternMaker_Setup_v1.2.0.exe"
   }
 }
