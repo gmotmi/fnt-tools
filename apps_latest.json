@@ -31,5 +31,16 @@
     "scan_pattern": "*.exe",
     "latest_version": "1.2.1",
     "download_url": "Z:\\1 성적서\\0 자동화\\Calpattern Maker\\CalPatternMaker_Setup_v1.2.1.exe"
+  },
+  "UPDATE_MANAGER": {
+    "version": "1.0.4",
+    "path": "C:\\make\\Output\\Update_Manager_Setup_1.04.exe",
+    "product_name": "UPDATE_MANAGER",
+    "last_updated": "2025-12-10",
+    "changelog": "",
+    "scan_dir": "C:/make/Output",
+    "scan_pattern": "*.exe",
+    "latest_version": "1.0.4",
+    "download_url": "C:\\make\\Output\\Update_Manager_Setup_1.04.exe"
   }
 }
