@@ -53,5 +53,16 @@
     "scan_pattern": "*.exe",
     "latest_version": "1.0.3",
     "download_url": ""
+  },
+  "GRF": {
+    "version": "1.0.1",
+    "path": "",
+    "product_name": "GRF",
+    "last_updated": "2026-05-13",
+    "changelog": "",
+    "scan_dir": "",
+    "scan_pattern": "*.exe",
+    "latest_version": "1.0.1",
+    "download_url": ""
   }
 }
