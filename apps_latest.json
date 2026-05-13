@@ -55,14 +55,14 @@
     "download_url": ""
   },
   "GRF": {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "path": "",
     "product_name": "GRF",
     "last_updated": "2026-05-13",
     "changelog": "",
     "scan_dir": "",
     "scan_pattern": "*.exe",
-    "latest_version": "1.0.1",
+    "latest_version": "1.0.2",
     "download_url": ""
   }
 }
