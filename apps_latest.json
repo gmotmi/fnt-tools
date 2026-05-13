@@ -56,13 +56,13 @@
   },
   "GRF": {
     "version": "1.0.2",
-    "path": "",
+    "path": "Z:\\1 성적서\\0 자동화\\03 GRF 자동화 프로그램 (설치형)\\GRF_Setup_v1.0.2.exe",
     "product_name": "GRF",
     "last_updated": "2026-05-13",
-    "changelog": "",
-    "scan_dir": "",
+    "changelog": "- 양식 변경/복사, 사진대지 생성탭(1.0.0)\n- 수동 수정탭 추가(1.0.1)\n- 현황/결과 생성탭 추가(1.0.2)",
+    "scan_dir": "Z:/1 성적서/0 자동화/03 GRF 자동화 프로그램 (설치형)",
     "scan_pattern": "*.exe",
     "latest_version": "1.0.2",
-    "download_url": ""
+    "download_url": "Z:\\1 성적서\\0 자동화\\03 GRF 자동화 프로그램 (설치형)\\GRF_Setup_v1.0.2.exe"
   }
 }
