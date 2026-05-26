@@ -64,5 +64,16 @@
     "scan_pattern": "*.exe",
     "latest_version": "1.0.2",
     "download_url": "Z:\\1 성적서\\0 자동화\\03 GRF 자동화 프로그램 (설치형)\\GRF_Setup_v1.0.2.exe"
+  },
+  "TMAP": {
+    "version": "0.4.5",
+    "path": "",
+    "product_name": "TMAP",
+    "last_updated": "2026-05-26",
+    "changelog": "",
+    "scan_dir": "Z:/1 성적서/0 자동화/05 TMAP 주소 등록 프로그램",
+    "scan_pattern": "*.exe",
+    "latest_version": "0.4.5",
+    "download_url": ""
   }
 }
