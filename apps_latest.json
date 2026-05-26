@@ -67,13 +67,13 @@
   },
   "TMAP": {
     "version": "0.4.5",
-    "path": "",
+    "path": "Z:\\1 성적서\\0 자동화\\05 TMAP 주소 등록 프로그램\\TMAP_Address_Register_Setup_v0.4.5.exe",
     "product_name": "TMAP",
     "last_updated": "2026-05-26",
     "changelog": "",
     "scan_dir": "Z:/1 성적서/0 자동화/05 TMAP 주소 등록 프로그램",
     "scan_pattern": "*.exe",
     "latest_version": "0.4.5",
-    "download_url": ""
+    "download_url": "Z:\\1 성적서\\0 자동화\\05 TMAP 주소 등록 프로그램\\TMAP_Address_Register_Setup_v0.4.5.exe"
   }
 }
